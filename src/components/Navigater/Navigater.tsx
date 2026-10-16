@@ -15,12 +15,12 @@ export default function Navigater() {
     },
     {
       title: 'to Vue',
-      url: 'https://huberyyang.site:85/',
+      url: 'https://vue3.huberyyang.site/',
       className: 'vue item',
     },
     {
       title: 'to Html',
-      url: 'https://huberyyang.site:86/',
+      url: 'https://html.huberyyang.site/',
       className: 'html item',
     },
   ]
